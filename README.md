@@ -3,7 +3,7 @@
 
 [![Travis CI](https://travis-ci.org/Dogfalo/materialize.svg?branch=master)](https://travis-ci.org/Dogfalo/materialize)[![devDependency Status](https://david-dm.org/Dogfalo/materialize/dev-status.svg)](https://david-dm.org/Dogfalo/materialize#info=devDependencies)[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Dogfalo/materialize?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[Materialize](http://materializecss.com/), a CSS Framework based on material design
+[Materialize](http://materializecss.com/), a CSS Framework based on material design fork for MixMedia
 
 ### Current Version : v0.97.8
 
@@ -39,6 +39,10 @@ Chrome 35+, Firefox 31+, Safari 7+, IE 10+
   - Added new option for Card actions within a Card reveal
 - v0.97.5 (Dec 21, 2015)
   - Fixed Meteor package crash
+- MM修改版
+  - **裁减了不常用的功能**
+  - **修复select 组件长按点击失效的问题**
+  - **为select 组件增加mobile适配，去掉模拟select的渲染**
 
 
 
